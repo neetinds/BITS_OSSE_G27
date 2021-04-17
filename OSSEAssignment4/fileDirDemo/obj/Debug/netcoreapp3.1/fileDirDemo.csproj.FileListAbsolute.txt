@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.exe
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.deps.json
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.dll
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\bin\Debug\netcoreapp3.1\fileDirDemo.pdb
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.dll
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.pdb
+C:\Users\DELL\source\repos\fileDirDemo\fileDirDemo\obj\Debug\netcoreapp3.1\fileDirDemo.genruntimeconfig.cache
